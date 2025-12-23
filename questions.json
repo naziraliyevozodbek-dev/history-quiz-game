@@ -1,0 +1,456 @@
+{
+    "classes": [
+        {
+            "id": "6",
+            "name": "6-sinf",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "Eng qadimgi odamlar qayerda yashagan?",
+                    "options": [
+                        "Osiyo",
+                        "Afrika",
+                        "Yevropa",
+                        "Avstraliya"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 2,
+                    "text": "Misr ehromlari kimlar uchun qurilgan?",
+                    "options": [
+                        "Fir'avnlar",
+                        "Qullar",
+                        "Harbiylar",
+                        "Dehqonlar"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 3,
+                    "text": "Olovdan foydalanishni kim ixtiro qilgan?",
+                    "options": [
+                        "Sinantrop",
+                        "Neandertal",
+                        "Kromagnon",
+                        "Avstralopitek"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 4,
+                    "text": "Urug' jamoasi nima?",
+                    "options": [
+                        "Qarindoshlar",
+                        "Qo'shnilar",
+                        "Do'stlar",
+                        "Dushmanlar"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 5,
+                    "text": "Ilk shaharlar qayerda paydo bo'lgan?",
+                    "options": [
+                        "Mesopotamiya",
+                        "Yevropa",
+                        "Amerika",
+                        "Avstraliya"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 6,
+                    "text": "Hammurappi qonunlari qaysi davlatda yaratilgan?",
+                    "options": [
+                        "Bobil",
+                        "Misr",
+                        "Xitoy",
+                        "Hindiston"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 7,
+                    "text": "Buyuk Ipak yo'li qachon ochilgan?",
+                    "options": [
+                        "Mil. avv. II asr",
+                        "Mil. avv. III asr",
+                        "Mil. I asr",
+                        "Mil. II asr"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 8,
+                    "text": "Qadimgi Yunonistonning poytaxti qaysi shahar?",
+                    "options": [
+                        "Afina",
+                        "Sparta",
+                        "Rim",
+                        "Karfagen"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 9,
+                    "text": "Aleksandr Makedonskiy kimga qarshi jang qilgan?",
+                    "options": [
+                        "Doro III",
+                        "Kir II",
+                        "Kserks",
+                        "Kambiz"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 10,
+                    "text": "Zardushtiylikning muqaddas kitobi nima?",
+                    "options": [
+                        "Avesto",
+                        "Veda",
+                        "Bibliya",
+                        "Quron"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 11,
+                    "text": "Saklar kimlar bo'lgan?",
+                    "options": [
+                        "Ko'chmanchi chorvadorlar",
+                        "Dehqonlar",
+                        "Dengizchilar",
+                        "Savdogarlar"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 12,
+                    "text": "To'maris qaysi qabila malikasi bo'lgan?",
+                    "options": [
+                        "Massagetlar",
+                        "Saklar",
+                        "Sarmatlar",
+                        "Skiflar"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 13,
+                    "text": "Spitamen qaysi shahar mudofaasiga boshchilik qilgan?",
+                    "options": [
+                        "Samarqand",
+                        "Buxoro",
+                        "Xiva",
+                        "Toshkent"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 14,
+                    "text": "Kaniska qaysi davlat hukmdori bo'lgan?",
+                    "options": [
+                        "Kushon",
+                        "Parfiya",
+                        "Yunon-Baqtriya",
+                        "Xorazm"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 15,
+                    "text": "Buddaviylik dini qayerda paydo bo'lgan?",
+                    "options": [
+                        "Hindiston",
+                        "Xitoy",
+                        "Yaponiya",
+                        "Tibet"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 16,
+                    "text": "Qadimgi Rimda gladiatorlar kimlar bo'lgan?",
+                    "options": [
+                        "Jangchi qullar",
+                        "Aslzodalar",
+                        "Harbiylar",
+                        "Dehqonlar"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 17,
+                    "text": "Spartak qo'zg'oloni qachon bo'lgan?",
+                    "options": [
+                        "Mil. avv. 73-71",
+                        "Mil. avv. 100-98",
+                        "Mil. avv. 50-48",
+                        "Mil. avv. 200-198"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 18,
+                    "text": "Yuliy Sezar qanday unvonga ega bo'lgan?",
+                    "options": [
+                        "Imperator",
+                        "Konsul",
+                        "Diktator",
+                        "Xon"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 19,
+                    "text": "Rim imperiyasi qachon ikkiga bo'lingan?",
+                    "options": [
+                        "395 yil",
+                        "476 yil",
+                        "300 yil",
+                        "200 yil"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 20,
+                    "text": "Konstantinopol qaysi imperiya poytaxti bo'lgan?",
+                    "options": [
+                        "Vizantiya",
+                        "Rim",
+                        "Osmoniy",
+                        "Fors"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "8-sinf",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "Amir Temur qachon tug'ilgan?",
+                    "options": [
+                        "1336",
+                        "1346",
+                        "1356",
+                        "1366"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 2,
+                    "text": "Temur tuzuklari kimning asari?",
+                    "options": [
+                        "Amir Temur",
+                        "Ulug'bek",
+                        "Bobur",
+                        "Navoiy"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 3,
+                    "text": "Mirzo Ulug'bek rasadxonasi qachon qurilgan?",
+                    "options": [
+                        "1428-1429",
+                        "1420-1425",
+                        "1430-1435",
+                        "1415-1420"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 4,
+                    "text": "Shayboniylar davlati asoschisi kim?",
+                    "options": [
+                        "Muhammad Shayboniyxon",
+                        "Kuchkunchixon",
+                        "Ubaydullaxon",
+                        "Abdullaxon II"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 5,
+                    "text": "Bobur qachon Hindistonni egallagan?",
+                    "options": [
+                        "1526",
+                        "1504",
+                        "1519",
+                        "1530"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 6,
+                    "text": "Buxoro amirligi qachon tashkil topgan?",
+                    "options": [
+                        "1753",
+                        "1785",
+                        "1800",
+                        "1860"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 7,
+                    "text": "Xiva xonligida qaysi sulola hukmronlik qilgan?",
+                    "options": [
+                        "Qo'ng'irotlar",
+                        "Mang'itlar",
+                        "Minglar",
+                        "Ashtarxoniylar"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 8,
+                    "text": "Qo'qon xonligi asoschisi kim?",
+                    "options": [
+                        "Shohruhbiy",
+                        "Norbo'tabiy",
+                        "Olimxon",
+                        "Umarxon"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 9,
+                    "text": "XIV asrda Yevropada qanday kasallik tarqalgan?",
+                    "options": [
+                        "Vabo (Qora o'lim)",
+                        "Chechak",
+                        "Gripp",
+                        "Tif"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 10,
+                    "text": "Yuz yillik urush qaysi davlatlar o'rtasida bo'lgan?",
+                    "options": [
+                        "Angliya va Fransiya",
+                        "Fransiya va Germaniya",
+                        "Angliya va Ispaniya",
+                        "Rossiya va Shvetsiya"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 11,
+                    "text": "Buyuk geografik kashfiyotlar qachon boshlangan?",
+                    "options": [
+                        "XV asr oxiri",
+                        "XIV asr",
+                        "XIII asr",
+                        "XVI asr o'rtasi"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 12,
+                    "text": "Amerikani kim kashf etgan?",
+                    "options": [
+                        "Xristofor Kolumb",
+                        "Amerigo Vespuchchi",
+                        "Vasko da Gama",
+                        "Magellan"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 13,
+                    "text": "Hindistonga dengiz yo'lini kim ochgan?",
+                    "options": [
+                        "Vasko da Gama",
+                        "Kolumb",
+                        "Magellan",
+                        "Kuk"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 14,
+                    "text": "Dunyo bo'ylab ilk sayohatni kim amalga oshirgan?",
+                    "options": [
+                        "Magellan",
+                        "Elkano",
+                        "Dreyk",
+                        "Kuk"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 15,
+                    "text": "Reformatsiya qayerda boshlangan?",
+                    "options": [
+                        "Germaniya",
+                        "Fransiya",
+                        "Angliya",
+                        "Italiya"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 16,
+                    "text": "Martin Lyuter kim bo'lgan?",
+                    "options": [
+                        "Reformatsiya asoschisi",
+                        "Rassom",
+                        "Qirol",
+                        "Sarkarda"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 17,
+                    "text": "Uyg'onish davri madaniyati qayerda shakllangan?",
+                    "options": [
+                        "Italiya",
+                        "Fransiya",
+                        "Angliya",
+                        "Ispaniya"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 18,
+                    "text": "Leonardo da Vinchining mashhur asari?",
+                    "options": [
+                        "Mona Liza",
+                        "David",
+                        "Afina maktabi",
+                        "Sikst madonnasi"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 19,
+                    "text": "Mikelandjelo kim bo'lgan?",
+                    "options": [
+                        "Haykaltarosh va rassom",
+                        "Shoir",
+                        "Siyosatchi",
+                        "Sayyoh"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 20,
+                    "text": "Nyuton qaysi qonunni kashf etgan?",
+                    "options": [
+                        "Butunolam tortishish",
+                        "Arximed kuchi",
+                        "Elektr",
+                        "Nisbiylik"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        }
+    ]
+}
