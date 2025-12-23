@@ -509,7 +509,7 @@ body {
 }
 
 .climber-red {
-  right: -80px;
+  right: 80px;
   /* Positioned to the right of the pole */
   left: auto;
 }
