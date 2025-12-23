@@ -10,7 +10,7 @@ function App() {
     const [selectedMode, setSelectedMode] = useState(null)
 
     useEffect(() => {
-        fetch('/questions.json')
+        fetch(import.meta.env.BASE_URL + 'questions.json')
             .then(res => res.json())
             .then(data => {
                 setClasses(data.classes)
