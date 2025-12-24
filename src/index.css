@@ -20,8 +20,9 @@ body {
 
 #root {
   width: 100%;
-  max-width: 1200px;
-  height: 95vh;
+  max-width: 100%;
+  /* Changed from 1200px to allow full width for 4K */
+  height: 100vh;
   display: flex;
   flex-direction: column;
 }
@@ -723,5 +724,176 @@ body {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+/* --- 4K and Large Screen Optimization (3840x2160 and above) --- */
+@media (min-width: 2500px) {
+  :root {
+    font-size: 24px;
+    /* Scale up base font size */
+  }
+
+  .main-card {
+    max-width: 1200px;
+    padding: 6rem 8rem;
+    border-radius: 80px;
+  }
+
+  .main-title {
+    font-size: 5rem;
+  }
+
+  .main-subtitle {
+    font-size: 2.22rem;
+    margin-bottom: 5rem;
+  }
+
+  .mode-card {
+    height: 200px;
+    padding: 2rem 3rem;
+    border-radius: 50px;
+    gap: 3rem;
+  }
+
+  .mode-circle-container {
+    width: 140px;
+    height: 140px;
+  }
+
+  .emoji-fallback {
+    font-size: 5rem;
+  }
+
+  .mode-name {
+    font-size: 2.8rem;
+  }
+
+  .class-btn {
+    padding: 2.4rem;
+    font-size: 2.4rem;
+    border-radius: 40px;
+  }
+
+  /* Game Layout */
+  .game-shell {
+    gap: 5rem;
+  }
+
+  .side-panel {
+    flex: 0 0 550px;
+    /* Double width */
+  }
+
+  .calc-card {
+    padding: 2.5rem;
+    border-radius: 50px;
+    border: 8px solid rgba(255, 255, 255, 0.6);
+  }
+
+  .calc-header {
+    font-size: 2.5rem;
+    padding: 1.6rem;
+    min-height: 100px;
+  }
+
+  .calc-display-marker {
+    height: 90px;
+    font-size: 1.8rem;
+    border-radius: 24px;
+  }
+
+  .calc-btn {
+    padding: 2rem 0;
+    font-size: 2.2rem;
+    border-radius: 24px;
+    box-shadow: 0 8px 0 #d1d9e6;
+  }
+
+  .calc-score-box {
+    padding: 1.2rem;
+    font-size: 1.5rem;
+  }
+
+  .game-title-overlay {
+    font-size: 4rem;
+    margin-bottom: 8rem;
+  }
+
+  /* Visuals Scaling */
+  .tug-war-full-img {
+    height: 600px;
+    /* Double image size */
+  }
+
+  .center-line-fixed {
+    width: 8px;
+    height: 500px;
+  }
+
+  .pole-climbing-scene {
+    height: 900px;
+    gap: 25rem;
+  }
+
+  .pole-img {
+    height: 100%;
+  }
+
+  .climber-image {
+    height: 300px !important;
+    max-height: 300px !important;
+    min-height: 300px !important;
+  }
+
+  .climber-blue {
+    left: -160px;
+  }
+
+  .climber-red {
+    right: -160px;
+  }
+
+  /* Navigation UI */
+  .control-btn {
+    width: 100px;
+    height: 100px;
+    font-size: 3rem;
+    bottom: 40px;
+  }
+
+  .home-btn {
+    left: 40px;
+  }
+
+  .fullscreen-btn {
+    right: 40px;
+  }
+
+  /* Overlays */
+  .victory-card {
+    max-width: 1200px;
+    padding: 6rem 8rem;
+  }
+
+  .victory-title {
+    font-size: 5rem;
+  }
+
+  .victory-message {
+    font-size: 2.5rem;
+  }
+
+  .victory-btn {
+    padding: 2rem 6rem;
+    font-size: 2.2rem;
+  }
+
+  .countdown-number {
+    font-size: 24rem !important;
+  }
+
+  .countdown-text {
+    font-size: 3.5rem;
   }
 }
