@@ -131,7 +131,7 @@ const GameRunner = ({ classData, gameMode, onExit }) => {
                                 <img src={import.meta.env.BASE_URL + "pole.png"} className="pole-img" alt="Pole" />
                                 <div className="climber climber-solo climber-blue" style={{ bottom: `${score1 === 0 ? 5 : 10 + (score1 * 8)}%` }}>
                                     <img
-                                        src={score1 === 0 ? import.meta.env.BASE_URL + "boy_blue_standing.png" : import.meta.env.BASE_URL + "climbing_boy_blue.png"}
+                                        src={score1 === 0 ? import.meta.env.BASE_URL + "standing_boy_blue_new.png" : import.meta.env.BASE_URL + "climbing_boy_blue_new.png"}
                                         className="climber-image"
                                         alt="Blue Climber"
                                     />
@@ -145,7 +145,7 @@ const GameRunner = ({ classData, gameMode, onExit }) => {
                                 <img src={import.meta.env.BASE_URL + "pole.png"} className="pole-img" alt="Pole" />
                                 <div className="climber climber-solo climber-red" style={{ bottom: `${score2 === 0 ? 5 : 10 + (score2 * 8)}%` }}>
                                     <img
-                                        src={score2 === 0 ? import.meta.env.BASE_URL + "boy_red_standing.png" : import.meta.env.BASE_URL + "climbing_boy_red.png"}
+                                        src={score2 === 0 ? import.meta.env.BASE_URL + "standing_boy_red_new.png" : import.meta.env.BASE_URL + "climbing_boy_red_new.png"}
                                         className="climber-image"
                                         alt="Red Climber"
                                     />
