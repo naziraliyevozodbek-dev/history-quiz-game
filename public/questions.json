@@ -6,223 +6,223 @@
             "questions": [
                 {
                     "id": 1,
-                    "text": "Eng qadimgi odamlar qayerda yashagan?",
+                    "text": "Zardushtiylik dini qayerda vujudga kelgan?",
                     "options": [
-                        "Osiyo",
-                        "Afrika",
-                        "Yevropa",
-                        "Avstraliya"
+                        "Hindiston",
+                        "Xitoy",
+                        "Markaziy Osiyo",
+                        "Misr"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 2,
+                    "text": "Zardushtiylik dinining asoschisi kim?",
+                    "options": [
+                        "Budda",
+                        "Zardusht",
+                        "Iso",
+                        "Muhammad (s.a.v)"
                     ],
                     "correctAnswer": 1
                 },
                 {
-                    "id": 2,
-                    "text": "Misr ehromlari kimlar uchun qurilgan?",
-                    "options": [
-                        "Fir'avnlar",
-                        "Qullar",
-                        "Harbiylar",
-                        "Dehqonlar"
-                    ],
-                    "correctAnswer": 0
-                },
-                {
                     "id": 3,
-                    "text": "Olovdan foydalanishni kim ixtiro qilgan?",
+                    "text": "Zardushtiylik dinining muqaddas kitobi qaysi?",
                     "options": [
-                        "Sinantrop",
-                        "Neandertal",
-                        "Kromagnon",
-                        "Avstralopitek"
+                        "Injil",
+                        "Tavrot",
+                        "Avesto",
+                        "Qur'on"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 2
                 },
                 {
                     "id": 4,
-                    "text": "Urug' jamoasi nima?",
+                    "text": "Zardushtiylikda ezgulik xudosi kim?",
                     "options": [
-                        "Qarindoshlar",
-                        "Qo'shnilar",
-                        "Do'stlar",
-                        "Dushmanlar"
+                        "Ahriman",
+                        "Ahura Mazda",
+                        "Mitra",
+                        "Anahita"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 },
                 {
                     "id": 5,
-                    "text": "Ilk shaharlar qayerda paydo bo'lgan?",
+                    "text": "Yovuzlik kuchi qanday ataladi?",
                     "options": [
-                        "Mesopotamiya",
-                        "Yevropa",
-                        "Amerika",
-                        "Avstraliya"
+                        "Ahura Mazda",
+                        "Zardusht",
+                        "Ahriman",
+                        "Farishta"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 2
                 },
                 {
                     "id": 6,
-                    "text": "Hammurappi qonunlari qaysi davlatda yaratilgan?",
+                    "text": "Zardushtiylikda muqaddas sanalgan unsur qaysi?",
                     "options": [
-                        "Bobil",
-                        "Misr",
-                        "Xitoy",
-                        "Hindiston"
+                        "Suv",
+                        "Yer",
+                        "Olov",
+                        "Havo"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 2
                 },
                 {
                     "id": 7,
-                    "text": "Buyuk Ipak yo'li qachon ochilgan?",
+                    "text": "Zardushtiylik ta'limotining asosiy g'oyasi nima?",
                     "options": [
-                        "Mil. avv. II asr",
-                        "Mil. avv. III asr",
-                        "Mil. I asr",
-                        "Mil. II asr"
+                        "Boylik",
+                        "Kuch",
+                        "Ezgulik va yovuzlik kurashi",
+                        "Urush"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 2
                 },
                 {
                     "id": 8,
-                    "text": "Qadimgi Yunonistonning poytaxti qaysi shahar?",
+                    "text": "Zardushtiylikda insondan nimalar talab etiladi?",
                     "options": [
-                        "Afina",
-                        "Sparta",
-                        "Rim",
-                        "Karfagen"
+                        "Jim yurish",
+                        "Yaxshi fikr, yaxshi so'z, yaxshi amal",
+                        "Boy bo'lish",
+                        "Ko'p ibodat qilish"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 },
                 {
                     "id": 9,
-                    "text": "Aleksandr Makedonskiy kimga qarshi jang qilgan?",
+                    "text": "\"Avesto\" qaysi tilda yozilgan?",
                     "options": [
-                        "Doro III",
-                        "Kir II",
-                        "Kserks",
-                        "Kambiz"
+                        "Arab",
+                        "Fors",
+                        "Avesto tili",
+                        "Lotin"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 2
                 },
                 {
                     "id": 10,
-                    "text": "Zardushtiylikning muqaddas kitobi nima?",
+                    "text": "Zardushtiylik qaysi davrda vujudga kelgan?",
                     "options": [
-                        "Avesto",
-                        "Veda",
-                        "Bibliya",
-                        "Quron"
+                        "Miloddan avvalgi",
+                        "Miloddan keyingi",
+                        "O'rta asr",
+                        "Yangi davr"
                     ],
                     "correctAnswer": 0
                 },
                 {
                     "id": 11,
-                    "text": "Saklar kimlar bo'lgan?",
+                    "text": "Zardushtiylikda olov nimani bildiradi?",
                     "options": [
-                        "Ko'chmanchi chorvadorlar",
-                        "Dehqonlar",
-                        "Dengizchilar",
-                        "Savdogarlar"
+                        "Yovuzlik",
+                        "Poklik va nur",
+                        "Urush",
+                        "Jazoni"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 },
                 {
                     "id": 12,
-                    "text": "To'maris qaysi qabila malikasi bo'lgan?",
+                    "text": "Zardushtiylik qaysi hududlarda keng tarqalgan?",
                     "options": [
-                        "Massagetlar",
-                        "Saklar",
-                        "Sarmatlar",
-                        "Skiflar"
+                        "Afrika",
+                        "Amerika",
+                        "Markaziy Osiyo va Eron",
+                        "Yevropa"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 2
                 },
                 {
                     "id": 13,
-                    "text": "Spitamen qaysi shahar mudofaasiga boshchilik qilgan?",
+                    "text": "Zardushtiylikda tabiatga munosabat qanday?",
                     "options": [
-                        "Samarqand",
-                        "Buxoro",
-                        "Xiva",
-                        "Toshkent"
+                        "Beparvo",
+                        "Hurmat bilan",
+                        "Yo'q qilish",
+                        "Foydalanish"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 },
                 {
                     "id": 14,
-                    "text": "Kaniska qaysi davlat hukmdori bo'lgan?",
+                    "text": "Zardushtiylikda insonning vazifasi nima?",
                     "options": [
-                        "Kushon",
-                        "Parfiya",
-                        "Yunon-Baqtriya",
-                        "Xorazm"
+                        "Yovuzlikka xizmat qilish",
+                        "Ezgulik tomonida bo'lish",
+                        "Boylik yig'ish",
+                        "Urush qilish"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 },
                 {
                     "id": 15,
-                    "text": "Buddaviylik dini qayerda paydo bo'lgan?",
+                    "text": "Zardushtiylik qaysi dinlar qatoriga kiradi?",
                     "options": [
-                        "Hindiston",
-                        "Xitoy",
-                        "Yaponiya",
-                        "Tibet"
+                        "Ko'pxudolik",
+                        "Yakkaxudolik",
+                        "Butparastlik",
+                        "Ateistik"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 },
                 {
                     "id": 16,
-                    "text": "Qadimgi Rimda gladiatorlar kimlar bo'lgan?",
+                    "text": "Ahura Mazda nimaning timsoli?",
                     "options": [
-                        "Jangchi qullar",
-                        "Aslzodalar",
-                        "Harbiylar",
-                        "Dehqonlar"
+                        "Zulmat",
+                        "Ezgulik",
+                        "Kasallik",
+                        "Urush"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 },
                 {
                     "id": 17,
-                    "text": "Spartak qo'zg'oloni qachon bo'lgan?",
+                    "text": "Ahriman nimaning timsoli?",
                     "options": [
-                        "Mil. avv. 73-71",
-                        "Mil. avv. 100-98",
-                        "Mil. avv. 50-48",
-                        "Mil. avv. 200-198"
+                        "Ezgulik",
+                        "Nur",
+                        "Yovuzlik",
+                        "Adolat"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 2
                 },
                 {
                     "id": 18,
-                    "text": "Yuliy Sezar qanday unvonga ega bo'lgan?",
+                    "text": "Zardushtiylikda odam o'lgach nima bo'ladi deb ishonilgan?",
                     "options": [
-                        "Imperator",
-                        "Konsul",
-                        "Diktator",
-                        "Xon"
+                        "Yo'q bo'ladi",
+                        "Qayta tug'iladi",
+                        "Amallari uchun javob beradi",
+                        "Hech narsa bo'lmaydi"
                     ],
                     "correctAnswer": 2
                 },
                 {
                     "id": 19,
-                    "text": "Rim imperiyasi qachon ikkiga bo'lingan?",
+                    "text": "Zardushtiylikda suvga munosabat qanday?",
                     "options": [
-                        "395 yil",
-                        "476 yil",
-                        "300 yil",
-                        "200 yil"
+                        "Muqaddas",
+                        "Keraksiz",
+                        "Xavfli",
+                        "Oddiy"
                     ],
                     "correctAnswer": 0
                 },
                 {
                     "id": 20,
-                    "text": "Konstantinopol qaysi imperiya poytaxti bo'lgan?",
+                    "text": "Zardushtiylik dini asosan nimani targ'ib qiladi?",
                     "options": [
-                        "Vizantiya",
-                        "Rim",
-                        "Osmoniy",
-                        "Fors"
+                        "Urushni",
+                        "Yaxshilikni",
+                        "Boylikni",
+                        "Hokimiyatni"
                     ],
-                    "correctAnswer": 0
+                    "correctAnswer": 1
                 }
             ]
         },
